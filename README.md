@@ -1,4 +1,4 @@
-# quantifying-neural-foundations-of-consciousness
+# Quantifying Neural Foundations of Consciousness
 
 
 ## Project Overview
