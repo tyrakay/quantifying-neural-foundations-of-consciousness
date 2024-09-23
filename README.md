@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-This research project focuses on developing analytical frameworks to analyze large, raw, spontaneous brain signals using custom Python functions. The framework integrates various statistical tests and machine learning models to classify data based on specific properties, particularly targeting artificially induced states of consciousness and the classification of different drugs.
+This research project focuses on developing analytical frameworks to analyze large, raw, spontaneous brain signals using custom Python and MATLAB functions. The framework integrates various statistical tests and machine learning models to classify data based on specific properties, particularly targeting artificially induced states of consciousness and the classification of different drugs.
 
 Key contributions include:
 
